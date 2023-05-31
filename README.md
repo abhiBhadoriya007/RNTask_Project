@@ -16,9 +16,13 @@ Clean the npm cache by running the following command:
 npm start --clean-cache
 
 To run the app on iOS:
-In the terminal, type "I" and press enter to run the iOS version of the app.
+In the metro terminal, type "i" to run the iOS version of the app.
 
 To run the app on Android:
 Open Android Studio and navigate to the "android" folder of the unzipped code.
 Sync the Gradle by clicking on the "Sync Project with Gradle Files" button.
-In the terminal, type "a" and press enter to run the Android version of the app.
+In the metro terminal, type "a" to run the Android version of the app.
+
+These steps will ensure that the necessary dependencies are installed, the project is properly configured, and the app is launched either on iOS or Android.
+
+Please note that these instructions assume you have the required development environment and tools set up for React Native development.
